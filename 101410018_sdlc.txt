@@ -13,5 +13,4 @@ where rapid software delivery, collaboration, and quality are essential.
 ### Benefits of DevOps in SDLC
 - Faster detection of bugs through continuous testing
 - Frequent and reliable delivery of new features
-- Improved collaboration between developers and operations
 - Automated workflows reduce human error
