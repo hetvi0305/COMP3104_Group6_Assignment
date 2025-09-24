@@ -6,4 +6,8 @@ students learn how to collaborate effectively in a team environment. By working
 with branching strategies, pull requests, and workflows, students gain 
 real-world skills that mirror professional DevOps practices.
 
+Through this course, I expect to learn how DevOps improves efficiency in 
+software projects and prepares me for working in modern software engineering teams.
+
+
 
