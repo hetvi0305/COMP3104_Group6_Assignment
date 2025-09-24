@@ -1,4 +1,9 @@
 In this course students will learn the procedures, protocols and best practices that a DevOps engineer brings to a
  workplace environment to increase productivity. Analyze and evaluate various developer operation implementation
  available and implement hands-on work using industry standard toolkit. Create solution to complex business
- problem by adhering to the core responsibilities of DevOps.
+ problem by adhering to the core responsibilities of DevOps. 
+ 
+
+ adding more content here 
+ devops help to align with other technology as well by which you will become more familiar with other stuff.
+ 
