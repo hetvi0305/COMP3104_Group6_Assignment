@@ -9,3 +9,10 @@ By integrating DevOps practices into the SDLC:
 
 Learning DevOps is valuable because it prepares students to work in environments 
 where rapid software delivery, collaboration, and quality are essential.
+
+### Benefits of DevOps in SDLC
+- Faster detection of bugs through continuous testing
+- Frequent and reliable delivery of new features
+- Improved collaboration between developers and operations
+- Automated workflows reduce human error
+- Better scalability and system reliability
