@@ -5,12 +5,7 @@ improving communication, and enabling faster feedback.
 By integrating DevOps practices into the SDLC:
 - Continuous Integration ensures code is tested frequently and errors are caught early.
 - Continuous Delivery allows new features to be deployed quickly and safely.
-
+- Monitoring and automation help maintain reliability and quality.
 
 Learning DevOps is valuable because it prepares students to work in environments 
 where rapid software delivery, collaboration, and quality are essential.
-
-### Benefits of DevOps in SDLC
-- Faster detection of bugs through continuous testing
-- Frequent and reliable delivery of new features
-- Automated workflows reduce human error
