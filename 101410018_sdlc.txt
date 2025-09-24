@@ -15,4 +15,3 @@ where rapid software delivery, collaboration, and quality are essential.
 - Frequent and reliable delivery of new features
 - Improved collaboration between developers and operations
 - Automated workflows reduce human error
-- Better scalability and system reliability
