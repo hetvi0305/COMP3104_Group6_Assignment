@@ -1,5 +1,4 @@
-In this course students will learn the procedures, protocols and best practices that a DevOps
-engineer brings to a workplace environment to increase productivity. Analyze and evaluate
-various developer operation implementations available and implement hands-on work using
-industry standard toolkit. Create solutions to complex business problems by adhering to the core
-responsibilities of DevOps.
+This course introduces students to the essential procedures, protocols, and best practices used by DevOps professionals 
+to enhance workplace efficiency and collaboration. Students will analyze and evaluate different DevOps approaches, 
+apply practical skills through hands-on experience with industry-standard tools, and design solutions to complex business 
+challenges by applying the fundamental principles and responsibilities of DevOps.
