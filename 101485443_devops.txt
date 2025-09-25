@@ -20,3 +20,5 @@ DevOps teams use tools to automate and accelerate processes,
 which helps to increase reliability. A DevOps toolchain helps 
 teams tackle important DevOps fundamentals including continuous
  integration, continuous delivery, automation, and collaboration.
+
+ Overall, DevOps prepares students with practical skills in collaboration, automation, and continuous integration, which are essential in today’s software industry
