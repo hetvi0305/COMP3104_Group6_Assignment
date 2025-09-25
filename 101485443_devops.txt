@@ -1,0 +1,5 @@
+DevOps is a 5th semester app being taught at george brown college.
+It is delivered in fall semester, under the program T177, and T197.
+Current professor: Pritesh Patel.
+It helps us to undestand the github, how to make repo, branch and colloborates. 
+It's a very interesting course and helps in the process to be a developer.  
