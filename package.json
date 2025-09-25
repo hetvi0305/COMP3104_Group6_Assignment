@@ -1,0 +1,22 @@
+{
+  "name": "comp3104_group6_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" ",
+    "build": "echo \"Building project...\""
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hetvi0305/COMP3104_Group6_Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hetvi0305/COMP3104_Group6_Assignment/issues"
+  },
+  "homepage": "https://github.com/hetvi0305/COMP3104_Group6_Assignment#readme"
+}
