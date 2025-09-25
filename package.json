@@ -6,7 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" ",
     "build": "echo \"Building project...\""
-  
   },
   "repository": {
     "type": "git",
