@@ -1,0 +1,15 @@
+Learning DevOps is important in the software development cycle.
+It improves collaboration, communication, and efficiency across teams.
+Automation in DevOps speeds up software delivery while reducing errors.
+Continuous integration and deployment ensure faster updates and higher quality.
+It helps students understand real-world practices used in modern IT industries.
+Overall, DevOps builds skills needed for scalable, reliable, and agile software development
+
+
+Software development teams rely on DevOps practices to efficiently 
+deliver products and features through structured collaboration and 
+shorter release cycles. Teams create pipelines that use automation to 
+speed up slow, manual processes and enable frequent updates and releases. 
+This automation involves plugins and frameworks that perform DevOps processes 
+while requiring very little human assistance, eliminating human error and repetitive tasks, 
+thus in turn, further streamlining DevOps pipelines.
