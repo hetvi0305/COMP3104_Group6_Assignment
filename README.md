@@ -15,25 +15,24 @@ The project demonstrates:
 •⁠  ⁠Proper commit practices and file organization
 
 Each group member contributes at least 10 commits and 3 files:
-1.⁠ ⁠⁠ StudentID_gb.txt ⁠ – Information about George Brown College  
-2.⁠ ⁠⁠ StudentID_devops.txt ⁠ – Information about COMP3104 DevOps course  
-3.⁠ ⁠⁠ StudentID_sdlc.txt ⁠ – Importance of DevOps in the Software Development Life Cycle (SDLC)
+1. StudentID_gb.txt ⁠ – Information about George Brown College 
+2. StudentID_devops.txt ⁠ – Information about COMP3104 DevOps course
+3. StudentID_sdlc.txt ⁠ – Importance of DevOps in the Software Development Life Cycle (SDLC)
 
 ## Setup Instructions
-1.⁠ ⁠Clone the repository. [GitHub Repo](https://github.com/hetvi0305/COMP3104_Group6_Assignment) 
-2.⁠ ⁠Switch to your branch using ⁠ git checkout STUDENTID-Name ⁠.
-3.⁠ ⁠Install any dependencies as listed.
-4.⁠ ⁠Regularly commit and pull from the ⁠ main ⁠ branch to avoid any conflicts.
+1. ⁠Clone the repository. [GitHub Repo](https://github.com/hetvi0305/COMP3104_Group6_Assignment) 
+2. Switch to your branch using ⁠ git checkout STUDENTID-Name .
+3. ⁠Install any dependencies as listed.
+4. ⁠Regularly commit and pull from the ⁠ main ⁠ branch to avoid any conflicts.
 
 ## CI/CD Pipeline
 The project utilizes GitHub Actions for continuous integration. The workflow is defined in ⁠ .github/workflows/main.yml ⁠.
-
-1.⁠ ⁠Triggers:
+1.  ⁠Triggers:
 
 •⁠  ⁠On push to ⁠ main ⁠ or any of your team branches (Hetvi, Manvi, Rashi, Disha).
 •⁠  ⁠On pull_request targeting ⁠ main ⁠.
 
-2.⁠ ⁠Jobs:
+2. ⁠Jobs:
 
 •⁠  ⁠Checks out the repo.
 •⁠  ⁠Sets up ⁠ Node.js v18 ⁠.
@@ -44,8 +43,8 @@ The project utilizes GitHub Actions for continuous integration. The workflow is 
 ## Branching Strategy
 Each member has their own branch named ⁠ STUDENTID-Name ⁠. All changes are merged into the ⁠ main ⁠ branch via Pull Requests.
 The repository has the following branches:
-1.⁠ ⁠main
-2.⁠ ⁠101508910-Hetvi
-3.⁠ ⁠101488862-Manvi
-4.⁠ ⁠101485443-rashi
-5.⁠ ⁠101410018-disha
+1.  ⁠main
+2. ⁠101508910-Hetvi
+3. ⁠101488862-Manvi
+4. ⁠⁠101485443-rashi
+5. ⁠101410018-disha
